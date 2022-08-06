@@ -1,18 +1,3 @@
-# Premitive-Data-Types-in-Java
-
-Datatypes
-Access Modifiers
-Looping
-Array, Arraylist, Linklist
-Keyword
-OPP(4 Parts)
-1:Inheritance
-2: Encapsulation
-3: Polymorphism
-4: Abstraction
-
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Datatypes:
 There are two main datatypes. One is premitive and the other is non-premitive.
@@ -38,10 +23,10 @@ For example :-
 
 Non-Primitive data types are the one which are derived from premitive datatypes.
 For example :-
-    * String
-    * array
-    * enum
-    * class
+ * String
+ * array
+ * enum
+ * class
 
 Java is statically typed means variable must be declared before its use.
 
