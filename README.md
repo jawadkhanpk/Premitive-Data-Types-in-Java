@@ -34,8 +34,8 @@ Java is statically typed means variable must be declared before its use.
 
 
 Rules to declare variables:
-1: Must not begin with a digit (like int 1jawad;) is not allowed.
-2: variable name is case sensitive (like Jawad and jawad both are different).
-3: variable name should not be exact as keyword like (String jawad) is not allowed.
-4: white spaces are not allowed in variables like (String user name) is not allowed.
-5: can contain alphabets, $character, _character and digit if other conditions meet.
+ * Must not begin with a digit (like int 1jawad;) is not allowed.
+ * variable name is case sensitive (like Jawad and jawad both are different).
+ * variable name should not be exact as keyword like (String jawad) is not allowed.
+ * white spaces are not allowed in variables like (String user name) is not allowed.
+ * can contain alphabets, $character, _character and digit if other conditions meet.
